@@ -18,10 +18,10 @@ The idea is simple: add the evolving skills alongside your existing project skil
 
 ```bash
 # Clone this repo
-git clone https://github.com/your-username/evolving-skills-claude.git
+git clone https://github.com/MeshJS/evolving-claude-skills.git
 
 # Copy the skills into your project's existing .claude/skills/ folder
-cp -r evolving-skills-claude/.claude/skills/ your-project/.claude/skills/
+cp -r evolving-claude-skills/.claude/skills/ your-project/.claude/skills/
 ```
 
 Your project should end up looking like this:
