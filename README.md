@@ -1,6 +1,6 @@
 # Evolving Skills for Claude Code
 
-Most Claude Code skills are static (what sucks) they never improve no matter how many times you use them. These skills evolve through use, getting better the more you work with them.
+Most Claude Code skills are static (what sucks) they never improve no matter how many times you use them. These skills help to evolve your projects claude code skills through use, getting better the more you work with them.
 
 ## The Three Skills
 
