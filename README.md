@@ -1,5 +1,7 @@
 # Evolving Skills for Claude Code
 
+This is not a complete solution but rather a initial concept & framework you can use and while using it, evolve and improve it to your own individual needs & prefences. 
+
 Most Claude Code skills are static (what sucks) they never improve no matter how many times you use them. These skills help to evolve your projects claude code skills through use, getting better the more you work with them.
 
 ## The Three Skills
